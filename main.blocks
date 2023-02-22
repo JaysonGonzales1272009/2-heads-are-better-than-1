@@ -1,1 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="9f]7O$Q_T9T!4o_%lesE" x="0" y="0"></block><block type="device_forever" id="F9@=gIwXA$J:F?k*wCU+" x="205" y="0"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="Tn|pSM=zsvk1.rc{8g%=">myImage</variable></variables><block type="device_get_light_level" id="sk-6#),9nENT[!Z|6$E}" disabled="true" x="403" y="-114"></block><block type="pxt-on-start" id=";bjTTK7bWR[+WJU5nGih" x="0" y="0"></block><block type="device_forever" id="fLJbU~4kKe08vmTsNAFv" x="205" y="0"><statement name="HANDLER"><block type="controls_if" id="sEU6sS3YE-Zf5E)uWmId"><mutation else="1"></mutation><value name="IF0"><shadow type="logic_boolean" id="Sz7L@%bf[4k%:U,^jbsX"><field name="BOOL">TRUE</field></shadow></value><statement name="DO0"><block type="device_print_message" id="v-oZ_~=^Rv(CBq(dD;~c"><value name="text"><shadow type="text" id=",+*!!7e}Fb]381b_FXp9"><field name="TEXT">derek is....... GAY</field></shadow></value></block></statement><statement name="ELSE"><block type="device_scroll_image" id="/Fxs)OhidNP9T?6!1tn("><value name="sprite"><block type="device_build_big_image" id="|HkKz2mPfh=uo8+mPoOO"><field name="LEDS">`
+        # . . . . . . . . # 
+        . # . . . . . . # . 
+        . . # . . . . # . . 
+        . . . # . . # . . . 
+        . . . . # # . . . .
+        `</field></block></value><value name="frameoffset"><shadow type="math_number" id="v+M1V(.C!cw2;wPid8;|"><field name="NUM">1</field></shadow></value><value name="delay"><shadow type="math_number" id="X)@msl`)x@V(5NmVz,?z"><field name="NUM">200</field></shadow></value></block></statement></block></statement></block></xml>
